@@ -7,6 +7,6 @@
  */
 public class TestUtil {
     public static String getHoge() {
-        return "hogehoge";
+        return "hogehogehoge";
     }
 }
